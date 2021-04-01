@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SoftServe.MyLibrary.Printers">
+      <HintPath>..\..\SoftServe.MyLibrary\Printers\bin\Debug\netcoreapp3.1\SoftServe.MyLibrary.Printers.dll</HintPath>
+    </Reference>
+    <Reference Include="SoftServe.MyLibrary.Validators">
+      <HintPath>..\..\SoftServe.MyLibrary\SoftServe.MyLibrary\bin\Debug\netcoreapp3.1\SoftServe.MyLibrary.Validators.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
