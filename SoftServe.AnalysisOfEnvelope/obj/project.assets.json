@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NoApple\\Desktop\\SoftServe\\2_SoftServe.AnalysisOfEnvelope\\SoftServe.AnalysisOfEnvelope\\SoftServe.AnalysisOfEnvelope.csproj",
+      "projectUniqueName": "C:\\Users\\NoApple\\Desktop\\GitHub\\2_Task.SoftServe.EnvelopesAnalysator\\SoftServe.AnalysisOfEnvelope\\SoftServe.AnalysisOfEnvelope.csproj",
       "projectName": "SoftServe.AnalysisOfEnvelope",
-      "projectPath": "C:\\Users\\NoApple\\Desktop\\SoftServe\\2_SoftServe.AnalysisOfEnvelope\\SoftServe.AnalysisOfEnvelope\\SoftServe.AnalysisOfEnvelope.csproj",
+      "projectPath": "C:\\Users\\NoApple\\Desktop\\GitHub\\2_Task.SoftServe.EnvelopesAnalysator\\SoftServe.AnalysisOfEnvelope\\SoftServe.AnalysisOfEnvelope.csproj",
       "packagesPath": "C:\\Users\\NoApple\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NoApple\\Desktop\\SoftServe\\2_SoftServe.AnalysisOfEnvelope\\SoftServe.AnalysisOfEnvelope\\obj\\",
+      "outputPath": "C:\\Users\\NoApple\\Desktop\\GitHub\\2_Task.SoftServe.EnvelopesAnalysator\\SoftServe.AnalysisOfEnvelope\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -6,11 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="SoftServe.MyLibrary.Printers">
-      <HintPath>..\..\SoftServe.MyLibrary\Printers\bin\Debug\netcoreapp3.1\SoftServe.MyLibrary.Printers.dll</HintPath>
+    <Reference Include="Printers">
+      <HintPath>..\..\MyLibs\MyLibs\Printers\bin\Debug\netcoreapp3.1\Printers.dll</HintPath>
     </Reference>
-    <Reference Include="SoftServe.MyLibrary.Validators">
-      <HintPath>..\..\SoftServe.MyLibrary\SoftServe.MyLibrary\bin\Debug\netcoreapp3.1\SoftServe.MyLibrary.Validators.dll</HintPath>
+    <Reference Include="Validators">
+      <HintPath>..\..\MyLibs\MyLibs\Validators\bin\Debug\netcoreapp3.1\Validators.dll</HintPath>
     </Reference>
   </ItemGroup>
 

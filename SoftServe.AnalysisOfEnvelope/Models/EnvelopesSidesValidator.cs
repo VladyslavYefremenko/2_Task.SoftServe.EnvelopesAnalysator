@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-using SoftServe.MyLibrary.Validators;
+using Validators;
 
 namespace SoftServe.AnalysisOfEnvelope
 {
