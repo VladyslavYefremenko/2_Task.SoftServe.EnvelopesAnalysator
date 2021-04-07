@@ -1,1 +1,0 @@
-# 2_Task.SoftServe.EnvelopesAnalysator
