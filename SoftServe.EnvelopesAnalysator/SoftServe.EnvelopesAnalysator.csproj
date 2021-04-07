@@ -46,8 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Consts\DefaultSettings.cs" />
+    <Compile Include="Interfaces\IValidators.cs" />
     <Compile Include="Models\Envelope.cs" />
     <Compile Include="Models\EnvelopeComparer.cs" />
+    <Compile Include="Models\Validators.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

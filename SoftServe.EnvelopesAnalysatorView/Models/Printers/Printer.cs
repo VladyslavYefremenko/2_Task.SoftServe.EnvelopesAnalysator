@@ -1,6 +1,9 @@
 ﻿using System;
 using System.IO;
 
+using SoftServe.EnvelopesAnalysator;
+
+
 namespace SoftServe.EnvelopesAnalysatorView
 {
     class Printer : IPrinter

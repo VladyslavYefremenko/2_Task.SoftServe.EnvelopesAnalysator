@@ -1,4 +1,4 @@
-﻿namespace SoftServe.EnvelopesAnalysatorView
+﻿namespace SoftServe.EnvelopesAnalysator
 {
     interface IValidators
     {

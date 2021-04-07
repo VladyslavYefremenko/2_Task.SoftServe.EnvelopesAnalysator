@@ -43,13 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Consts\DefaultSettings.cs" />
     <Compile Include="Interfaces\IPrinter.cs" />
-    <Compile Include="Interfaces\IValidators.cs" />
     <Compile Include="Models\Printers\Printer.cs" />
     <Compile Include="Models\UserInputs\RestartAnalysator.cs" />
     <Compile Include="Models\UserInputs\UserInput.cs" />
-    <Compile Include="Models\Validators.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />

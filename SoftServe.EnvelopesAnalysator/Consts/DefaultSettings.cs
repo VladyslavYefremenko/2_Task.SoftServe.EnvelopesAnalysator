@@ -1,6 +1,6 @@
-﻿namespace SoftServe.EnvelopesAnalysatorView
+﻿namespace SoftServe.EnvelopesAnalysator
 {
-    class DefaultSettings
+    public class DefaultSettings
     {
         public const double MIN_SIZE = 0.1;
 

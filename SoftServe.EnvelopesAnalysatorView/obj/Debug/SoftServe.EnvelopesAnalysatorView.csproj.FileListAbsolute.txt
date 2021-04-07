@@ -9,3 +9,14 @@ C:\Users\NoApple\Desktop\Temp\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.Env
 C:\Users\NoApple\Desktop\Temp\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\obj\Debug\SoftServe.EnvelopesAnalysatorView.csproj.CopyComplete
 C:\Users\NoApple\Desktop\Temp\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\obj\Debug\SoftServe.EnvelopesAnalysatorView.exe
 C:\Users\NoApple\Desktop\Temp\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\obj\Debug\SoftServe.EnvelopesAnalysatorView.pdb
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\obj\Debug\SoftServe.EnvelopesAnalysatorView.csprojAssemblyReference.cache
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\obj\Debug\SoftServe.EnvelopesAnalysatorView.csproj.CoreCompileInputs.cache
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\obj\Debug\SoftServe.EnvelopesAnalysatorView.exe
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\obj\Debug\SoftServe.EnvelopesAnalysatorView.pdb
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\bin\Debug\SoftServe.EnvelopesAnalysatorView.exe.config
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\bin\Debug\SoftServe.EnvelopesAnalysatorView.exe
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\bin\Debug\SoftServe.EnvelopesAnalysatorView.pdb
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\bin\Debug\SoftServe.EnvelopesAnalysator.dll
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\bin\Debug\SoftServe.EnvelopesAnalysator.pdb
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\bin\Debug\SoftServe.EnvelopesAnalysator.dll.config
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysatorView\obj\Debug\SoftServe.EnvelopesAnalysatorView.csproj.CopyComplete
