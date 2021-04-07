@@ -1,0 +1,6 @@
+C:\Users\NoApple\Desktop\Temp\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysator\bin\Debug\SoftServe.EnvelopesAnalysator.dll.config
+C:\Users\NoApple\Desktop\Temp\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysator\bin\Debug\SoftServe.EnvelopesAnalysator.dll
+C:\Users\NoApple\Desktop\Temp\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysator\bin\Debug\SoftServe.EnvelopesAnalysator.pdb
+C:\Users\NoApple\Desktop\Temp\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysator\obj\Debug\SoftServe.EnvelopesAnalysator.csproj.CoreCompileInputs.cache
+C:\Users\NoApple\Desktop\Temp\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysator\obj\Debug\SoftServe.EnvelopesAnalysator.dll
+C:\Users\NoApple\Desktop\Temp\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysator\obj\Debug\SoftServe.EnvelopesAnalysator.pdb
