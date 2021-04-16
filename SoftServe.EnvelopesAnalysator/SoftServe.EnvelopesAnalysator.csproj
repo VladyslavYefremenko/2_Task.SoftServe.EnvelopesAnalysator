@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Consts\DefaultSettings.cs" />
+    <Compile Include="Interfaces\IEnvelop.cs" />
     <Compile Include="Interfaces\IValidators.cs" />
     <Compile Include="Models\Envelope.cs" />
     <Compile Include="Models\EnvelopeComparer.cs" />
