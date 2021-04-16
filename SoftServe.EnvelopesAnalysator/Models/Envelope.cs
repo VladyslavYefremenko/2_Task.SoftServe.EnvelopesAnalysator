@@ -1,6 +1,6 @@
 ﻿namespace SoftServe.EnvelopesAnalysator
 {
-    public class Envelope : IEnvelop
+    public class Envelope : IEnvelope
     {
         private double highEnvelope;
         private double weightEnvelope;

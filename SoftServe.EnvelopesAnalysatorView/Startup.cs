@@ -27,13 +27,8 @@ namespace SoftServe.EnvelopesAnalysatorView
 
                 if (validators.ValidatSides(highFirstEnvelope, weightFirstEnvelope, highSecondEnvelope, weightSecondEnvelope))
                 {
-                    bool comparerResult = false;
-
-                    if (envelopeComparer.Compare(envelope1 = new Envelope(double.Parse(highFirstEnvelope), double.Parse(weightFirstEnvelope)),
-                        envelope2 = new Envelope(double.Parse(highSecondEnvelope), double.Parse(weightSecondEnvelope))) == 1)
-                    {
-                        comparerResult = true;
-                    }
+                    bool comparerResult = envelopeComparer.Compare(envelope1 = new Envelope(double.Parse(highFirstEnvelope), double.Parse(weightFirstEnvelope)),
+                        envelope2 = new Envelope(double.Parse(highSecondEnvelope), double.Parse(weightSecondEnvelope))) == 1;
 
                     printer.PrintResult(comparerResult);
                 }
