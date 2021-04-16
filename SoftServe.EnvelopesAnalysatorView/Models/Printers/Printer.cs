@@ -35,13 +35,13 @@ namespace SoftServe.EnvelopesAnalysatorView
             if (isInserted)
             {
                 Console.Clear();
-                printer.Message(DefaultSettings.postitveResult);
+                printer.Message(DefaultSettings.PostitveResult);
                 Console.ReadKey();
             }
             else
             {
                 Console.Clear();
-                printer.Message(DefaultSettings.negariteResult);
+                printer.Message(DefaultSettings.NegariteResult);
                 Console.ReadKey();
             }
         }

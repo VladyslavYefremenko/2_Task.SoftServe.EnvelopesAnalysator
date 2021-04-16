@@ -39,7 +39,7 @@ namespace SoftServe.EnvelopesAnalysatorView
                 }
                 else
                 {
-                    printer.Instraction(DefaultSettings.instractionPath);
+                    printer.Instraction(DefaultSettings.InstractionPath);
                     Console.ReadKey();
                     return;
                 }

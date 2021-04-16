@@ -7,10 +7,10 @@
             bool isValid = false;
 
             if ((IsNumDouble(arg1) && IsNumDouble(arg2) && IsNumDouble(arg3) && IsNumDouble(arg4))
-                && (double.Parse(arg1) > DefaultSettings.MIN_SIZE
-                && double.Parse(arg2) > DefaultSettings.MIN_SIZE
-                && double.Parse(arg3) > DefaultSettings.MIN_SIZE
-                && double.Parse(arg4) > DefaultSettings.MIN_SIZE))
+                && (double.Parse(arg1) > DefaultSettings.MinSize
+                && double.Parse(arg2) > DefaultSettings.MinSize
+                && double.Parse(arg3) > DefaultSettings.MinSize
+                && double.Parse(arg4) > DefaultSettings.MinSize))
             {
                 isValid = true;
             }
