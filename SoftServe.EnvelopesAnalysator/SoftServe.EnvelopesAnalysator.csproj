@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Consts\DefaultSettings.cs" />
+    <Compile Include="Settings\DefaultSettings.cs" />
     <Compile Include="Interfaces\IEnvelope.cs" />
     <Compile Include="Interfaces\IValidators.cs" />
     <Compile Include="Models\Envelope.cs" />

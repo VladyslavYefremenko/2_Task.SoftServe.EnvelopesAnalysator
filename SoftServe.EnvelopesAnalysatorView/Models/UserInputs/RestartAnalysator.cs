@@ -4,7 +4,7 @@ namespace SoftServe.EnvelopesAnalysatorView
 {
     class RestartAnalysator
     {
-        public static bool Restart()
+        public static bool Restart(IPrinter printer)
         {
             bool restartApp = false;
             string message = "Continue? (Enter y/yes - to continue.)";
@@ -12,8 +12,6 @@ namespace SoftServe.EnvelopesAnalysatorView
             string userInput = string.Empty;
 
             Console.Clear();
-
-            Printer printer = new Printer();
 
             printer.Message(message);
             userInput = Console.ReadLine();

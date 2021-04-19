@@ -1,5 +1,8 @@
-﻿using SoftServe.EnvelopesAnalysator;
-using System;
+﻿using System;
+using System.Collections.Generic;
+
+using SoftServe.EnvelopesAnalysator;
+
 
 namespace SoftServe.EnvelopesAnalysatorView
 {
@@ -9,21 +12,21 @@ namespace SoftServe.EnvelopesAnalysatorView
         {
             bool restartApp = false;
 
-            Envelope envelope1;
-            Envelope envelope2;
-
-            string highFirstEnvelope;
-            string weightFirstEnvelope;
-            string highSecondEnvelope;
-            string weightSecondEnvelope;
-
-            Validators validators = new Validators();
-            Printer printer = new Printer();
-            EnvelopeComparer envelopeComparer = new EnvelopeComparer();
+            IValidators validators = new Validators();
+            IPrinter printer = new Printer();
+            IComparer<Envelope> envelopeComparer = new EnvelopeComparer();
 
             do
             {
-                UserInput.ReadUserEnter(out highFirstEnvelope, out weightFirstEnvelope, out highSecondEnvelope, out weightSecondEnvelope);
+                Envelope envelope1;
+                Envelope envelope2;
+
+                string highFirstEnvelope;
+                string weightFirstEnvelope;
+                string highSecondEnvelope;
+                string weightSecondEnvelope;
+
+                UserInput.ReadUserEnter(printer, out highFirstEnvelope, out weightFirstEnvelope, out highSecondEnvelope, out weightSecondEnvelope);
 
                 if (validators.ValidatSides(highFirstEnvelope, weightFirstEnvelope, highSecondEnvelope, weightSecondEnvelope))
                 {
@@ -39,7 +42,7 @@ namespace SoftServe.EnvelopesAnalysatorView
                     return;
                 }
 
-                restartApp = RestartAnalysator.Restart();
+                restartApp = RestartAnalysator.Restart(printer);
             } while (restartApp);
         }
     }

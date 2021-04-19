@@ -4,7 +4,7 @@ namespace SoftServe.EnvelopesAnalysatorView
 {
     class UserInput
     {
-        public static void ReadUserEnter(out string highFirstEnvelope, out string weightFirstEnvelope, out string highSecondEnvelope, out string weightSecondEnvelope)
+        public static void ReadUserEnter(IPrinter printer, out string highFirstEnvelope, out string weightFirstEnvelope, out string highSecondEnvelope, out string weightSecondEnvelope)
         {
             string message1 = "Enter high of first envelope:";
             string message2 = "Enter weight of first envelope: ";
@@ -12,8 +12,6 @@ namespace SoftServe.EnvelopesAnalysatorView
             string message4 = "Enter weight of second envelope:";
 
             Console.Clear();
-
-            Printer printer = new Printer();
 
             printer.Message(message1);
             highFirstEnvelope = Console.ReadLine();

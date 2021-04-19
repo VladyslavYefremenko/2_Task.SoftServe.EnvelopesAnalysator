@@ -1,8 +1,8 @@
 ﻿namespace SoftServe.EnvelopesAnalysator
 {
-    public class IEnvelope
+    public interface IEnvelope
     {
-        public double HighEnvelope { get; }
-        public double WeightEnvelope { get; }
+        double HighEnvelope { get; }
+        double WeightEnvelope { get; }
     }
 }
