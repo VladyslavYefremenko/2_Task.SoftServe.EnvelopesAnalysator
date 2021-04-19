@@ -10,3 +10,4 @@ C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServ
 C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysator\obj\Debug\SoftServe.EnvelopesAnalysator.csproj.CoreCompileInputs.cache
 C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysator\obj\Debug\SoftServe.EnvelopesAnalysator.dll
 C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysator\obj\Debug\SoftServe.EnvelopesAnalysator.pdb
+C:\Users\NoApple\Desktop\SoftServe\2_Task.SoftServe.EnvelopesAnalysator\SoftServe.EnvelopesAnalysator\obj\Debug\SoftServe.EnvelopesAnalysator.csprojAssemblyReference.cache
